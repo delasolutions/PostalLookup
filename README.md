@@ -5,7 +5,7 @@ Configuration:
 
 Enter your Yahoo Weather API private and secret keys in postal-lookup.ts file to allow the application to autheticate to Yahoo's Weather API.
 
-Execut the following command to complile the application:
+Execute the following command to complile the application:
 
 tsc postal-lookup.ts
 
